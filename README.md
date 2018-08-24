@@ -1,7 +1,7 @@
 # DQN_of_DWA_python
 learning the weight of each paras in DWA(Dynamic Window Approach) by using DQN(Deep Q-Learning)
 ## 1、关于本项目
-　使用python语言和[tensorflow](https://github.com/tensorflow/tensorflow)平台，结合C++编写的仿真环境，利用DQN(Deep Q-Learning)对DWA(Dynamic Window Approach)算法中各参数的权重进行学习。 
+　使用python语言和[tensorflow](https://github.com/tensorflow/tensorflow)平台，结合C++编写的仿真环境，利用DQN(Deep Q-Learning)对DWA(Dynamic Window Approach)算法中各参数的权重进行学习。  
 　代码中不包括DWA的主体部分，该部分由C++编写，通过调用该文件编译生成的.so文件得到。  
   &nbsp;
   
