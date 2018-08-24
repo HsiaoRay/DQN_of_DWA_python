@@ -9,9 +9,9 @@ learning the weight of each paras in DWA(Dynamic Window Approach) by using DQN(D
 ### 　２.1 python版本
 　　使用python2.x版本
 ### 　２.2 环境依赖
-> 　　conda install opencv
-> 　　conda install numpy
-> 　　conda install tensorflow
+> 　　conda install opencv  
+> 　　conda install numpy  
+> 　　conda install tensorflow  
   &nbsp;
   
   
